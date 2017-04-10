@@ -1,0 +1,24 @@
+{
+  "name": "wdwne",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express3-handlebars": "^0.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pumbastic/wdwne.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pumbastic/wdwne/issues"
+  },
+  "homepage": "https://github.com/Pumbastic/wdwne#readme",
+  "description": ""
+}
